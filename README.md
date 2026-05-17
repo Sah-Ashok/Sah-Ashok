@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Full Stack Developer | 🎓 BCA Student | 💡 Backend Enthusiast
+### 🚀 Full Stack Developer  | 💡 Backend Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Node.js+%7C+React+Developer;Backend+Heavy+Web+Apps;Microservices+%7C+Cloud+%7C+Docker;Always+Learning+New+Technologies" alt="Typing SVG" />
 
