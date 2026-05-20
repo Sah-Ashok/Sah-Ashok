@@ -22,7 +22,6 @@
 - 🔒 Security & Authentication
 - 📊 System Design & Scalability
 
-🎓 Pursuing **Bachelor of Computer Applications (BCA)** at **RK University, Rajkot** (CGPA: 8.6)
 
 📍 **Location:** Rajkot, Gujarat, India  
 🌐 **Portfolio:** [ashok-sah.me](https://ashok-sah.me)  
