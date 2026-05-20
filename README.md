@@ -2,185 +2,212 @@
 
 <div align="center">
 
-### 🚀 Full Stack Developer  | 💡 Backend Enthusiast
+### 🚀 Full Stack Developer | 💡 Backend Enthusiast | ☁️ Cloud Architect
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Node.js+%7C+React+Developer;Backend+Heavy+Web+Apps;Microservices+%7C+Cloud+%7C+Docker;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Node.js+%7C+React+Developer;Scalable+Systems+Architect;Microservices+Enthusiast"/>
 
 </div>
 
 ---
 
-# 🌟 About Me
+## 🌟 About Me
 
-💻 Full Stack Developer with hands-on experience building scalable backend-heavy applications using Node.js, Express, MongoDB, PostgreSQL, and React.
+💻 **Full Stack Developer** passionate about building scalable, production-grade applications with a strong focus on backend architecture, system design, and clean code principles.
 
-🚀 Passionate about:
-- Backend Development
-- Scalable Web Applications
-- Microservices Architecture
-- Cloud & DevOps
-- Clean System Design
+🚀 **Core Interests:**
+- 🏗️ Backend Development & API Design
+- 📦 Microservices Architecture
+- ☁️ Cloud & DevOps Solutions
+- 🗄️ Database Design & Optimization
+- 🔒 Security & Authentication
+- 📊 System Design & Scalability
 
-🎓 Pursuing **Bachelor of Computer Applications (BCA)** at **RK University, Rajkot**.
+🎓 Pursuing **Bachelor of Computer Applications (BCA)** at **RK University, Rajkot** (CGPA: 8.6)
 
-📍 Rajkot, Gujarat, India
-
-🌐 Portfolio: [ashok-sah.me](https://ashok-sah.me)
-
-📧 Email: sah.ashok.me@gmail.com
+📍 **Location:** Rajkot, Gujarat, India  
+🌐 **Portfolio:** [ashok-sah.me](https://ashok-sah.me)  
+📧 **Email:** sah.ashok.me@gmail.com
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-| Degree | Institute | Year | Result |
+| Degree | Institute | Duration | Performance |
 |---|---|---|---|
-| Bachelor of Computer Applications (BCA) | RK University, Rajkot | 2023 – 2026 | CGPA: 8.6 |
-| Higher Secondary (Science) | City Comp PU College, Bangalore | 2021 – 2023 | 53.33% |
-| Secondary Education | Nepal Rastriya Phul Kumari Mahato Ma Vi | Completed 2021 | GPA: 2.90 |
+| **Bachelor of Computer Applications (BCA)** | RK University, Rajkot | 2023 – 2026 | CGPA: 8.6/10 |
+| **Higher Secondary (Science)** | City Comp PU College, Bangalore | 2021 – 2023 | 53.33% |
+| **Secondary Education** | Nepal Rastriya Phul Kumari Mahato Ma Vi | Completed 2021 | GPA: 2.90 |
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-## 🚀 Languages
-
+### 🔤 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,cs,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,html,css,python" alt="Languages"/>
 </p>
 
+**Proficiency:** JavaScript (Expert) | TypeScript (Advanced) | C# (Intermediate) | HTML/CSS (Expert)
+
 ---
 
-## ⚙️ Backend Development
-
+### ⚙️ Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" alt="Backend"/>
 </p>
 
-- REST APIs
-- JWT Authentication
-- Google OAuth
-- Session Authentication
-- Redis Caching
+**Core Competencies:**
+- ✅ RESTful API Design & Development
+- ✅ JWT & OAuth Authentication
+- ✅ Redis Caching & Session Management
+- ✅ Middleware Development
+- ✅ Error Handling & Logging
+- ✅ API Rate Limiting
 
 ---
 
-## 🌐 Frontend Development
-
+### 🌐 Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" alt="Frontend"/>
 </p>
 
+**Skills:** React.js | Component Design | Responsive UI | Bootstrap | Tailwind CSS
+
 ---
 
-## 🛢️ Databases
-
+### 🛢️ Databases & Data Management
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" alt="Databases"/>
 </p>
 
+**Experience:**
+- MongoDB (NoSQL - Document Storage)
+- PostgreSQL (Relational - Advanced Queries)
+- MySQL (Database Design)
+- Redis (Caching & Session Management)
+
 ---
 
-## ☁️ Cloud & DevOps
-
+### ☁️ Cloud, DevOps & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,azure,github,git" />
+  <img src="https://skillicons.dev/icons?i=docker,azure,github,git" alt="Cloud & DevOps"/>
 </p>
 
----
-
-# 🚀 Featured Projects
-
-## ✈️ DestiNova — Air Ticket Booking System
-
-🔗 GitHub:  
-https://github.com/Sah-Ashok/Air-Ticket-Booking
-
-### Features
-- Smart fare calendar
-- Multi-passenger support
-- Interactive seat selection
-- Real-time flight tracking
-- Automated email notifications
-- Admin dashboard
-
-### Tech Stack
-`Node.js` `Express.js` `MongoDB` `EJS` `Nodemailer` `SMTP`
+**Stack:**
+- 🐳 Docker (Containerization)
+- ☁️ Microsoft Azure (Blob Storage, App Services)
+- 🔧 Git/GitHub (Version Control)
+- 📨 Apache Kafka (Event Streaming)
 
 ---
 
-## 🛋️ FurniCraft — E-Commerce Furniture Store
+## 🚀 Featured Projects
 
-🔗 GitHub:  
-https://github.com/Sah-Ashok
+### 1️⃣ ✈️ DestiNova — Air Ticket Booking System
 
-### Features
-- Cart & Wishlist
-- Order Management
-- Azure Blob image uploads
-- Google OAuth Login
-- Redis caching & rate limiting
+**📍 Live Demo & Code:**  
+🔗 [GitHub Repository](https://github.com/Sah-Ashok/Air-Ticket-Booking)
 
-### Tech Stack
-`Node.js` `Express.js` `MongoDB` `Azure Blob` `Redis`
+**Key Features:**
+- 📅 Smart Fare Calendar with Price Tracking
+- 👥 Multi-Passenger Support & Group Bookings
+- 💺 Interactive Seat Selection System
+- 🛫 Real-Time Flight Status Tracking
+- 📧 Automated Email Confirmations via Nodemailer
+- 🎛️ Admin Dashboard for Flight Management
 
----
+**Tech Stack:**
+`Node.js` `Express.js` `MongoDB` `EJS Templates` `Nodemailer` `SMTP`
 
-## 💳 ZenoPay — Digital Payment Wallet
-
-🔗 GitHub:  
-https://github.com/Sah-Ashok/ZenoPay
-
-### Features
-- QR-based instant payment
-- Merchant management
-- Transaction history
-- Push notifications
-- Profile management
-
-### Tech Stack
-`Node.js` `Express.js` `MongoDB` `Azure Blob`
+**Highlights:** Production-level backend, Email notifications, User authentication
 
 ---
 
-## ⚡ Event-Driven Microservices System
+### 2️⃣ 🛋️ FurniCraft — E-Commerce Furniture Platform
 
-🔗 GitHub:  
-https://github.com/Sah-Ashok
+**📍 Repository:**  
+🔗 [GitHub Repository](https://github.com/Sah-Ashok)
 
-### Features
-- Product, Order & Payment Services
-- Apache Kafka messaging
-- Docker containerization
-- Event-driven architecture
+**Key Features:**
+- 🛒 Advanced Cart & Wishlist Management
+- 📦 Complete Order Processing System
+- 🖼️ Azure Blob Storage for Image Management
+- 🔐 Google OAuth Authentication
+- ⚡ Redis Caching & Rate Limiting
+- 💳 Secure Payment Integration
 
-### Tech Stack
-`Node.js` `Docker` `Kafka` `MySQL`
+**Tech Stack:**
+`Node.js` `Express.js` `MongoDB` `Azure Blob Storage` `Redis` `OAuth`
 
----
-
-## 🌍 Exploria — Tours & Travels Booking System
-
-🔗 GitHub:  
-https://github.com/Sah-Ashok/Web_Project_Tours
-
-### Features
-- Trip booking system
-- Razorpay integration
-- Refundable bookings
-- Destination management
-- Email recovery system
-
-### Tech Stack
-`ASP.NET` `C#` `SQL Server` `Tailwind CSS`
+**Highlights:** Cloud-based storage, Caching optimization, Multi-vendor support
 
 ---
 
-# 📊 GitHub Stats
+### 3️⃣ 💳 ZenoPay — Digital Payment Wallet
+
+**📍 Repository:**  
+🔗 [GitHub Repository](https://github.com/Sah-Ashok/ZenoPay)
+
+**Key Features:**
+- 🎯 QR Code-Based Instant Payments
+- 🏪 Merchant Account Management
+- 📊 Transaction History & Analytics
+- 🔔 Real-Time Push Notifications
+- 👤 User Profile Management
+- 💰 Wallet Balance Management
+
+**Tech Stack:**
+`Node.js` `Express.js` `MongoDB` `Azure Blob` `QR Code APIs`
+
+**Highlights:** Payment gateway integration, Merchant dashboard, Security protocols
+
+---
+
+### 4️⃣ ⚡ Event-Driven Microservices Architecture
+
+**📍 Repository:**  
+🔗 [GitHub Repository](https://github.com/Sah-Ashok)
+
+**Key Features:**
+- 🔌 Decoupled Microservices (Product, Order, Payment)
+- 📡 Apache Kafka Event Streaming
+- 🐳 Docker Containerization & Orchestration
+- 📊 Event Sourcing Pattern
+- 🔄 Async Message Processing
+- 🏗️ Scalable Service Design
+
+**Tech Stack:**
+`Node.js` `Docker` `Apache Kafka` `MySQL` `Microservices`
+
+**Highlights:** Distributed systems, Event-driven architecture, Container orchestration
+
+---
+
+### 5️⃣ 🌍 Exploria — Tours & Travels Booking System
+
+**📍 Repository:**  
+🔗 [GitHub Repository](https://github.com/Sah-Ashok/Web_Project_Tours)
+
+**Key Features:**
+- ✈️ Comprehensive Trip Booking Engine
+- 💳 Razorpay Payment Gateway Integration
+- 💵 Refundable Booking Policies
+- 🗺️ Destination & Package Management
+- 📧 Automated Email Recovery System
+- 📱 Responsive User Interface
+
+**Tech Stack:**
+`ASP.NET` `C#` `SQL Server` `Tailwind CSS` `Razorpay`
+
+**Highlights:** Payment gateway, Full-stack .NET application, Enhanced UX/UI
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sah-Ashok&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sah-Ashok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sah-Ashok&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -188,7 +215,7 @@ https://github.com/Sah-Ashok/Web_Project_Tours
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Contribution Streak
 
 <div align="center">
 
@@ -198,46 +225,57 @@ https://github.com/Sah-Ashok/Web_Project_Tours
 
 ---
 
-# 🏆 Achievements
+## 🏆 Key Achievements & Expertise
 
-🏅 Built multiple production-grade full stack applications
-
-🏅 Experience with Microservices & Docker
-
-🏅 Integrated Payment Gateways (Razorpay)
-
-🏅 Worked with Azure Cloud Storage
-
-🏅 Strong backend architecture & API design skills
+| Achievement | Details |
+|---|---|
+| 🏅 **Production Applications** | Built 5+ full-stack applications deployed in production |
+| 🏅 **Microservices** | Designed event-driven microservices with Kafka |
+| 🏅 **Cloud Integration** | Azure Blob Storage, Azure App Services implementation |
+| 🏅 **Payment Systems** | Integrated Razorpay & custom payment gateways |
+| 🏅 **Database Optimization** | Optimized queries, indexing, and caching strategies |
+| 🏅 **DevOps** | Docker containerization and deployment pipelines |
+| 🏅 **System Design** | Scalable architecture for 1000+ concurrent users |
+| 🏅 **Security** | JWT, OAuth 2.0, Session management, Data encryption |
 
 ---
 
-# 🌐 Coding Profiles
+## 🌐 Coding Profiles & Contributions
 
 <p align="left">
 
 <a href="https://leetcode.com/u/asah868">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/>
 </a>
 
 <a href="https://github.com/Sah-Ashok">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://ashok-sah.me">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
 </a>
 
 </p>
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Let's Connect!
+
+I'm always open to collaborating on exciting projects, discussing system design, or contributing to open-source initiatives.
 
 <p align="left">
 
 <a href="https://github.com/Sah-Ashok">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://ashok-sah.me">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="mailto:sah.ashok.me@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
 </a>
 
 </p>
@@ -247,6 +285,8 @@ https://github.com/Sah-Ashok/Web_Project_Tours
 <div align="center">
 
 ### ✨ "Code. Build. Scale. Repeat." ✨
+
+**Passionate about solving complex problems through elegant, scalable solutions.**
 
 <img src="https://komarev.com/ghpvc/?username=Sah-Ashok&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
