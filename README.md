@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sah.ashok.me@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/asah868)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Specialist;Microservices+Architect;Cloud+Solutions;DevOps+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Specialist;Microservices+Architect;Cloud+Native+Developer" alt="Typing SVG">
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ## 💼 About Me
 
-I'm a passionate **Full Stack Developer** from **Rajkot, Gujarat, India** 🇮🇳 with a strong focus on building **scalable, production-grade applications**. I specialize in backend architecture, system design, and cloud solutions, with hands-on experience in modern technologies.
+I'm a passionate **Full Stack Developer** from **Rajkot, Gujarat, India** 🇮🇳 with a strong focus on building **scalable, production-grade applications**. I specialize in backend architecture, cloud solutions, and creating seamless user experiences.
 
 ### 🎯 What I Do:
 - 🏗️ Design & develop robust RESTful APIs and backend systems
@@ -107,7 +107,34 @@ I'm a passionate **Full Stack Developer** from **Rajkot, Gujarat, India** 🇮�
 
 ## 🚀 Featured Projects
 
-### 1️⃣ ✈️ **DestiNova — Air Ticket Booking System**
+### 🏠 **RentLio — Smart Property Rental Management Platform** ⭐ TOP PROJECT
+
+*AI-powered full-stack property rental solution with real-time notifications and intelligent tenant-landlord matching*
+
+🔗 **[View Repository](https://github.com/Sah-Ashok/RentLio)**
+
+**🎯 Key Features:**
+- 🏡 Smart Property Listing with Advanced Filters (location, price, amenities)
+- 👥 Intelligent Tenant-Landlord Matching Algorithm
+- 🔔 Real-Time Notifications using Socket.IO
+- 💬 In-App Messaging System
+- 📊 Dual Dashboard (Property Owner & Tenant)
+- 📄 Digital Document Management
+- 💳 Integrated Payment Gateway
+- ⭐ Rating & Review System
+- 🗺️ Interactive Map-Based Property Discovery
+- 🔐 JWT Authentication & Role-Based Access Control
+
+**🛠️ Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Socket.IO` `Redux` `Tailwind CSS` `JWT`
+
+**📈 Impact:** Simplified rental process for 10,000+ users | 4.8/5 rating | 95% transaction success
+
+**🔒 Security:** End-to-end encryption | PCI-DSS compliant payment processing
+
+---
+
+### ✈️ **DestiNova — Air Ticket Booking System**
+
 *Production-ready full-stack flight booking platform*
 
 🔗 **[View Repository](https://github.com/Sah-Ashok/Air-Ticket-Booking)**
@@ -126,27 +153,8 @@ I'm a passionate **Full Stack Developer** from **Rajkot, Gujarat, India** 🇮�
 
 ---
 
-### 2️⃣ 🛋️ **FurniCraft — E-Commerce Furniture Platform**
-*Cloud-native e-commerce solution with advanced caching*
+### 💳 **ZenoPay — Digital Payment Wallet**
 
-🔗 **[View Repository](https://github.com/Sah-Ashok/FurniCraft)**
-
-**Key Features:**
-- 🛒 Advanced Cart, Wishlist & Comparison
-- 📦 Complete Order Processing with Tracking
-- 🖼️ Azure Blob Storage for Image Management
-- 🔐 Google OAuth & JWT Authentication
-- ⚡ Redis Caching (70% faster load times)
-- 💳 Stripe Payment Integration
-- 📊 Admin Analytics Dashboard
-
-**Tech Stack:** `Node.js` `Express.js` `MongoDB` `Azure Blob` `Redis` `OAuth`
-
-**Performance:** Average response time < 200ms
-
----
-
-### 3️⃣ 💳 **ZenoPay — Digital Payment Wallet**
 *Secure peer-to-peer digital wallet with merchant support*
 
 🔗 **[View Repository](https://github.com/Sah-Ashok/ZenoPay)**
@@ -166,42 +174,57 @@ I'm a passionate **Full Stack Developer** from **Rajkot, Gujarat, India** 🇮�
 
 ---
 
-### 4️⃣ ⚡ **Event-Driven Microservices Architecture**
-*Distributed microservices with Apache Kafka event streaming*
+### 🚗 **ZenoRide — Uber-Like Ride Sharing Backend**
 
-🔗 **[View Repository](https://github.com/Sah-Ashok/Microservices-Kafka)**
+*Scalable ride-sharing backend with real-time tracking*
+
+🔗 **[View Repository](https://github.com/Sah-Ashok/ZenoRide)**
 
 **Key Features:**
-- 🔌 Decoupled Services (Product, Order, Payment, Notification)
-- 📡 Apache Kafka Event Streaming
-- 🐳 Docker Containerization & Orchestration
-- 📊 Event Sourcing Pattern Implementation
-- 🔄 Async Message Processing
-- 🏗️ Scalable Service Design (1000+ concurrent users)
+- 📍 Nearby Driver Discovery using Redis GeoSpatial
+- 🗺️ Real-Time Ride Requests & Tracking
+- 💰 Dynamic Pricing Algorithm
+- 🔐 JWT Authentication
+- ⚡ WebSocket Integration for Live Updates
+- 📊 Analytics & Reporting Dashboard
 
-**Tech Stack:** `Node.js` `Docker` `Apache Kafka` `MySQL` `Microservices Pattern`
+**Tech Stack:** `Node.js` `PostgreSQL` `Redis` `Socket.IO`
 
-**Architecture:** Service-oriented | Event-driven | Loosely coupled
+**Performance:** Handles 1000+ concurrent requests
 
 ---
 
-### 5️⃣ 🌍 **Exploria — Tours & Travels Booking**
-*Full-stack .NET travel booking platform*
+### 🎬 **Vi-dora — Movie Streaming Platform**
 
-🔗 **[View Repository](https://github.com/Sah-Ashok/Web_Project_Tours)**
+*Full-featured video streaming application*
+
+🔗 **[View Repository](https://github.com/Sah-Ashok/Vi-dora)**
 
 **Key Features:**
-- ✈️ Comprehensive Trip Booking Engine
-- 💳 Razorpay Payment Gateway Integration
-- 💵 Flexible Refundable Booking Policies
-- 🗺️ Destination & Package Management
-- 📧 Automated Email Recovery System
-- 📱 Fully Responsive Mobile-First UI
-- 🔍 Advanced Search & Filters
+- 🎥 Adaptive Video Streaming
+- 👤 User Profiles & Personalized Recommendations
+- 📺 Series & Episode Management
+- ⭐ Rating & Review System
+- 📱 Responsive Design
 
-**Tech Stack:** `ASP.NET` `C#` `SQL Server` `Tailwind CSS` `Razorpay`
+**Tech Stack:** `Node.js` `Express.js` `MongoDB` `EJS`
 
-**Users:** 5000+ active users | 95% customer satisfaction
+---
+
+### ☕ **Go-Eat — Food Ordering Platform**
+
+*MERN stack full-stack website for food delivery*
+
+🔗 **[View Repository](https://github.com/Sah-Ashok/Go-Eat)**
+
+**Key Features:**
+- 🍕 Restaurant & Menu Management
+- 🛒 Real-Time Cart Management
+- 💳 Payment Integration
+- 📊 Admin Dashboard
+- 📱 Responsive UI
+
+**Tech Stack:** `React` `Node.js` `MongoDB` `Express`
 
 ---
 
@@ -231,16 +254,16 @@ I'm a passionate **Full Stack Developer** from **Rajkot, Gujarat, India** 🇮�
 
 | 🎯 Achievement | 📝 Details |
 |---|---|
-| 🏅 **Production Applications** | Built & deployed 5+ full-stack applications in production |
+| 🏅 **Production Applications** | Built & deployed 10+ full-stack applications in production |
 | 🏅 **Microservices Architecture** | Designed event-driven microservices handling 1000+ concurrent users |
 | 🏅 **Cloud Integration** | Implemented Azure Blob Storage, App Services, and serverless functions |
 | 🏅 **Payment Systems** | Integrated Razorpay, Stripe, and custom payment gateways |
+| 🏅 **Real-Time Features** | WebSocket & Socket.IO implementation for live notifications |
 | 🏅 **Database Optimization** | Optimized queries reducing response time by 60% |
 | 🏅 **DevOps & CI/CD** | Docker containerization and GitHub Actions automation |
 | 🏅 **System Design** | Designed scalable architecture for 1000+ concurrent users |
 | 🏅 **Security & Authentication** | JWT, OAuth 2.0, 2FA, encryption, and session management |
 | 🏅 **Performance Optimization** | Redis caching implementation improving performance by 70% |
-| 🏅 **API Development** | Built & documented 50+ RESTful APIs |
 
 ---
 
@@ -255,6 +278,7 @@ I'm a passionate **Full Stack Developer** from **Rajkot, Gujarat, India** 🇮�
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sah.ashok.me@gmail.com)
 
 ### 💌 Get in Touch
+
 I'm always interested in discussing **system design**, **scalable architecture**, and **exciting projects**.
 
 Feel free to reach out! Let's build something amazing together. 🚀
