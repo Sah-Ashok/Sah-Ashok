@@ -1,128 +1,238 @@
-# Ashok Sah
+<div align="center">
 
-### Full Stack Developer | Node.js | Express | MongoDB | Azure
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ashok%20Sah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=a8d8ea&animation=fadeIn" width="100%" />
 
-I build backend-heavy, production-ready web applications with clean APIs, secure authentication, payment integrations, cloud deployment, and scalable architecture.
+</div>
 
-Rajkot, Gujarat, India  
-[Email](mailto:sah.ashok.me@gmail.com) | [GitHub](https://github.com/Sah-Ashok) | [LinkedIn](https://www.linkedin.com/in/ashok-sah/) | [LeetCode](https://leetcode.com/u/asah868) | [Portfolio](https://ashok-sah.me)
+<br/>
 
----
+<div align="center">
 
-## About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=white)](https://ashok-sah.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashok-sah)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/asah868)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sah.ashok.me@gmail.com)
 
-Full Stack Developer with hands-on experience building web applications using **Node.js, Express, MongoDB, PostgreSQL, Prisma, TypeScript, and Azure**. I have worked on rental platforms, e-commerce systems, event-driven microservices, travel booking systems, digital payments, authentication flows, and admin dashboards.
-
-My focus is on building reliable backend systems, practical user flows, secure APIs, and deployable products that solve real problems.
-
----
-
-## Tech Stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
-
-### Backend & Frontend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
-
-### Database, Cloud & Tools
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
-![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=fff)
+</div>
 
 ---
 
-## Featured Projects
+<br/>
 
-### RentLio - Rental Home Platform
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-**Node.js | Express | MongoDB | EJS | Azure**
+### 🧠 About Me
 
-Rental home platform connecting home seekers with property providers.
+```ts
+const ashok = {
+  role     : "Full Stack Developer",
+  studying : "BCA @ RK University",
+  location : "Rajkot, Gujarat 🇮🇳",
+  focus    : ["Backend", "Microservices",
+              "Cloud", "Mobile"],
+  building : "Production-grade apps",
+  open_to  : "First professional role 🚀"
+};
+```
 
-- Built separate flows for tenants and property providers.
-- Implemented property listing, browsing, request handling, and management features.
-- Added authentication, role-based access, notifications, and Azure deployment.
-- [Live Project](https://rentlio-hddhekarc6cca6bt.centralindia-01.azurewebsites.net)
+</td>
+<td valign="top" width="50%">
 
-### J&S Sofa - E-Commerce Furniture Store
+### 📊 GitHub Stats
 
-**Node.js | Express | MongoDB | EJS | Azure Blob | JWT | Razorpay**
+![Ashok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sah-Ashok&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a8d8ea&icon_color=a8d8ea&text_color=ffffff&count_private=true)
 
-Furniture e-commerce platform with product browsing, cart, wishlist, checkout, and order tracking.
+</td>
+</tr>
+</table>
 
-- Implemented JWT authentication, Google OAuth, protected routes, and admin access.
-- Built admin features for products, categories, images, stock, users, and orders.
-- Added Razorpay checkout, order cancellation, caching, and email notifications.
-- [Live Project](https://craft-zone-b6hggzbbbxd8h5au.eastasia-01.azurewebsites.net)
-
-### Microservice Project - Event-Driven E-Commerce
-
-**Kafka | Docker | MySQL**
-
-Event-driven e-commerce architecture with independent Product, Order, and Payment services.
-
-- Designed asynchronous service communication using Apache Kafka.
-- Containerized services with Docker.
-- Orchestrated the local system using Docker Compose.
-
-### Exploria - Tours & Travels Booking System
-
-**ASP.NET | SQL Server | Razorpay**
-
-Travel booking platform with trip booking, user profiles, admin management, and payment support.
-
-- Integrated Razorpay with a refundable booking system.
-- Implemented admin CRUD operations and email recovery.
-- Built profile management and booking workflows.
-- [GitHub Repository](https://github.com/Sah-Ashok/Web_Project_Tours)
+<br/>
 
 ---
 
-## Education
+## 🛠️ Tech Stack
 
-| Institution | Program | Duration | Result |
-| --- | --- | --- | --- |
-| RK University | Bachelor of Computer Applications | 2023 - 2026 | CGPA: 8.6 / 10 |
-| City Comp PU College | Higher Secondary, Science | 2021 - 2023 | 53.33% |
-| Nepal Rastriya Phul Kumari Mahato Ma Vi | Secondary Education | Completed 2021 | GPA: 2.90 / 4.00 |
+<br/>
+
+<div align="center">
+
+<!-- Languages -->
+<table>
+<tr><th colspan="10" align="left">&nbsp;&nbsp;Languages</th></tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" height="45"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts" height="45"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cs" height="45"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" height="45"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" height="45"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=kotlin" height="45"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" height="45"/></td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Backend -->
+<table>
+<tr><th colspan="10" align="left">&nbsp;&nbsp;Backend</th></tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="45"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" height="45"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=dotnet" height="45"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=prisma" height="45"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=kafka" height="45"/></td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Frontend -->
+<table>
+<tr><th colspan="10" align="left">&nbsp;&nbsp;Frontend</th></tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" height="45"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" height="45"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" height="45"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="45"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=android" height="45"/></td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Database -->
+<table>
+<tr><th colspan="10" align="left">&nbsp;&nbsp;Databases</th></tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="45"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" height="45"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" height="45"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=redis" height="45"/></td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Cloud & DevOps -->
+<table>
+<tr><th colspan="10" align="left">&nbsp;&nbsp;Cloud & DevOps</th></tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" height="45"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=azure" height="45"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" height="45"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nginx" height="45"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" height="45"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" height="45"/></td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Tools -->
+<table>
+<tr><th colspan="10" align="left">&nbsp;&nbsp;Tools</th></tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" height="45"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" height="45"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma" height="45"/></td>
+</tr>
+</table>
+
+</div>
+
+<br/>
 
 ---
 
-## Languages
+## 🚀 Featured Projects
 
-| Language | Proficiency |
-| --- | --- |
-| Nepali | Native |
-| Hindi | Fluent |
-| English | Fluent |
+<br/>
+
+<div align="center">
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+#### 🏠 RentLio
+> Rental home platform connecting seekers & providers
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+Role-based auth · Property listings · Azure deploy
+
+</td>
+
+<td width="50%" valign="top">
+
+#### 🛋️ J&S Sofa
+> Full-featured furniture e-commerce store
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+Google OAuth · Admin panel · Order tracking
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+#### ⚡ Microservice Project
+> Event-driven e-commerce microservices
+
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+Async messaging · Containerized · Compose orchestration
+
+</td>
+
+<td width="50%" valign="top">
+
+#### ✈️ Exploria
+> Tours & travel booking platform
+
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
+
+Refundable bookings · Admin panel · Email recovery
+
+</td>
+
+</tr>
+</table>
+</div>
+
+<br/>
 
 ---
 
-## Contact
+<br/>
 
-I am open to full-stack development opportunities, backend-focused roles, internships, freelance projects, and collaborations.
+<div align="center">
 
-Email: [sah.ashok.me@gmail.com](mailto:sah.ashok.me@gmail.com)  
-Phone: +91 9448902474
+![Snake animation](https://raw.githubusercontent.com/Sah-Ashok/Sah-Ashok/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Visitors](https://komarev.com/ghpvc/?username=Sah-Ashok&color=203a43&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+
+</div>
