@@ -2,12 +2,12 @@
 
 # Hey, I'm Ashok 👋
 
-**Full-Stack Developer** · BCA @ RK University, Rajkot  
-Building real-world systems with the MERN stack and beyond.
+**Full-Stack Developer** · Building backend-heavy web applications that scale.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashok-sah)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://ashok-sah.me)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/asah868)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sah.ashok.me@gmail.com)
 
 </div>
 
@@ -15,95 +15,85 @@ Building real-world systems with the MERN stack and beyond.
 
 ## 🧑‍💻 About Me
 
-I'm a full-stack developer who learns by building. I started with the MERN stack and have since pushed into PostgreSQL, Redis, Docker, Kafka, and Android/Kotlin — because real projects demand more than tutorials teach.
+I'm a full-stack developer who learns by building. I started with the MERN stack and have since pushed into PostgreSQL, Redis, Docker, Kafka, and TypeScript — because real projects demand more than tutorials teach.
 
 I'm actively building my portfolio and looking for my **first professional role**.
 
-- 🎓 BCA student at **RK University**, Rajkot, Gujarat
-- 🔨 Currently working on: **MiniBazzar** (e-commerce platform), **V-Space** (collaborative editor), **AshokDocs** (Google Docs clone)
-- 📱 Also building Android apps with Kotlin (MVVM + Clean Architecture)
+- 🔨 Currently working on: **event-driven microservices**, **Redis caching**, and **scalable REST APIs**
 - 🐛 Participated in an authorized bug bounty hackathon — tested ASP.NET apps with Burp Suite
-- 📈 Interested in NSE/BSE intraday trading and market analysis
+- 💳 Built production-grade systems with **Razorpay**, **Azure Blob Storage**, and **JWT/OAuth**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+**Frontend**
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,js,ts" />
+</div>
 
-**Mobile**  
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
+<br/>
 
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Backend**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis,prisma" />
+</div>
+
+<br/>
+
+**DevOps & Tools**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,azure,git,github,postman,vscode,linux" />
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 💸 [MiniBazzar](https://github.com/yourusername/minibazzar)
-> E-commerce backend built for scale
+### 🏠 [RentLio – Rental Home Platform](https://github.com/Sah-Ashok/rentlio)
+> Connecting home seekers with property providers
 
-Node.js · PostgreSQL (Azure) · Redis · JWT · PM2 · Worker Threads · pdfkit
+`Node.js` `Express` `MongoDB` `EJS` `Azure`
 
-- 12-worker clustering with PM2 for high concurrency
-- Worker Thread Pool for async PDF receipt generation
-- Redis caching with cache-invalidation on write
-- JWT guest token system with cookie + fingerprint rate limiting
-- Microservice architecture in progress (Kafka + Docker)
+- Separate user flows for tenants and providers — listing, browsing, and property management
+- Role-based access, authentication, property request handling, and notification support
+- Deployed on Microsoft Azure · [**Live →**](#)
 
 ---
 
-### 📝 [AshokDocs](https://github.com/yourusername/ashokdocs)
-> Real-time collaborative document editor — Google Docs clone
+### 🛋️ [J&S Sofa – E-Commerce Furniture Store](https://github.com/Sah-Ashok/jns-sofa)
+> Full-featured furniture store with payments and admin panel
 
-Node.js · WebSockets · Docker · Claude AI API
+`Node.js` `Express` `MongoDB` `JWT` `Google OAuth` `Razorpay` `Azure Blob`
 
-- Live multi-user editing with role-based access (editor / viewer)
-- AI writing assistant powered by Claude API
-- Undo/redo, font controls, rich text formatting
-- Fully Dockerized — runs with `docker-compose up --build`
-
----
-
-### 🏠 [Rentlio](https://github.com/yourusername/rentlio)
-> Property rental marketplace
-
-Node.js · Express · MongoDB · EJS
-
-- Dual roles: Home-Seeker and Home-Provider
-- Location-based search by city, current location, or radius
-- Clean MVC architecture with Service and Repository layers
+- Cart, wishlist, checkout, order tracking, and order cancellation
+- JWT auth + Google OAuth login with protected routes and role-based admin access
+- Admin panel for product/category CRUD, image uploads, stock, users, and orders
+- Razorpay integration, Redis caching, and email notifications · [**Live →**](#)
 
 ---
 
-### 📱 [CraftLand App](https://github.com/yourusername/craftland-app)
-> Android e-commerce app for CraftZone furniture store
+### ⚙️ [Microservice Project – Event-Driven E-Commerce](https://github.com/Sah-Ashok/microservice-project)
+> Distributed architecture with async messaging
 
-Kotlin · MVVM · Retrofit · Room · Hilt · Coroutines
+`Kafka` `Docker` `MySQL`
 
-- JWT auth with auto-injection and cold-start restore
-- Collapsing AppBar with ViewPager2 image carousel
-- Dynamic profile with initials avatar and time-based greeting
-- Product reviews with verified-buyer gate (1 review per user)
+- Product, Order, and Payment services communicating via Apache Kafka
+- Fully containerized with Docker and orchestrated using Docker Compose
+
+---
+
+### ✈️ [Exploria – Tours & Travels Booking](https://github.com/Sah-Ashok/exploria)
+> Travel booking system with payments and admin tools
+
+`ASP.NET` `C#` `SQL Server` `Razorpay`
+
+- Trip booking, profile management, and refundable booking system
+- Razorpay payment gateway, admin panel, CRUD operations, and email recovery
+- [**GitHub →**](https://github.com/Sah-Ashok/exploria)
 
 ---
 
@@ -111,8 +101,9 @@ Kotlin · MVVM · Retrofit · Room · Hilt · Coroutines
 
 <div align="center">
 
-![Ashok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+![Ashok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sah-Ashok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sah-Ashok&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
