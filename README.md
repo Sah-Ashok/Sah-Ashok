@@ -101,9 +101,16 @@ I'm actively building my portfolio and looking for my **first professional role*
 
 <div align="center">
 
-![Ashok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sah-Ashok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sah-Ashok&theme=tokyonight" alt="Ashok's GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sah-Ashok&theme=tokyonight" alt="Top Languages" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sah-Ashok&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sah-Ashok&theme=tokyonight&hide_border=true" alt="Ashok's GitHub Streak" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sah-Ashok&theme=tokyonight" alt="Ashok's Contribution Graph" />
 
 </div>
 
