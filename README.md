@@ -6,6 +6,12 @@ Passionate about building scalable, maintainable systems that solve real problem
 
 ---
 
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sah-Ashok&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
+
 ## 🛠️ Technical Skills
 
 **Languages:** JavaScript, TypeScript, C#, Kotlin, SQL, HTML5, CSS3
